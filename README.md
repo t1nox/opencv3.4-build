@@ -6,7 +6,7 @@
 
 <h4>chmod +x build-opencv.sh</h4>
 
-<h4>./build-opencv.sh</h4>
+<h4>sudo ./build-opencv.sh</h4>
 
 <h4>CHECK version opecv and create virtualenv</h4>
 
